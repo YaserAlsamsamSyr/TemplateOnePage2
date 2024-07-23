@@ -1,0 +1,313 @@
+ <nav>
+               <div class='nav-item-1'>
+                <img src="https://img.icons8.com/small/16/000000/automatic-gearbox-warning.png"/>
+               </div>
+               <div class='nav-item-2'>
+                   <div class="nav-item-2-list">
+                       <span class='nav-item-2-list-languages-span'>
+                        <img class='arrow' src="https://img.icons8.com/material-sharp/24/000000/expand-arrow--v1.png"/>
+                           EN
+                           
+                        </span>
+                       <div class='nav-item-2-list-languages-content-hidde'>
+                           <span>AR</span>
+                           <span>FR</span>
+                       </div>
+                    </div>
+               </div>
+               <div class='nav-item-3'>
+                <div class="nav-item-3-list">
+               <span class='nav-item-3-span-list'>
+                <img class='arrow' src="https://img.icons8.com/material-sharp/24/000000/expand-arrow--v1.png"/>
+                   Elements
+                  
+                </span>
+               <div class='nav-item-3-span-list-hidde-content'>
+                   <div class="nav-item-3-span-list-hidde-content-item-1">
+                       <p>GENERAL ELEMENTS</p>
+                       <p><a href=''>Buttons & Badges</a></p>
+                       <p><a href=''>Counter</a></p>
+                       <p><a href=''>Dividers</a></p>
+                       <p><a href=''>Form Elements</a></p>
+                       <p><a href=''>Icon Box</a></p>
+                       <p><a href=''>Image Hover</a></p>
+                       <p><a href=''>Lightbox</a></p>
+                       <p><a href=''>Modal</a></p>
+                   </div>
+                    <div class="nav-item-3-span-list-hidde-content-item-2">
+                       <p><a href=''>Pricing Table</a></p>
+                       <p><a href=''>Process</a></p>
+                       <p><a href=''>Progressbar</a></p>
+                       <p><a href=''>Shadows</a></p>
+                       <p><a href=''>Tabs</a></p>
+                       <p><a href=''>Team</a></p>
+                       <p><a href=''>Testimonials</a></p>
+                       <p><a href=''>Toggle & Accordion</a></p>
+                   </div>
+                   <div class="nav-item-3-span-list-hidde-content-item-3">
+                    <p>MISC ELEMENTS</p>
+                    <p><a href=''>Carousel</a></p>
+                    <p><a href=''>Icons - Concept</a></p>
+                    <p><a href=''>Icons - Duotone</a></p>
+                    <p><a href=''>Icons - Unicons</a></p>
+                    <p><a href=''>Media Player</a></p>
+                    <p><a href=''>Scroll Animations</a></p>
+                    <p><a href=''>Wrappers</a></p>
+                    <p><a href=''>Wrappers - Angled</a></p>
+                   </div>
+                   <div class="nav-item-3-span-list-hidde-content-item-4">
+                       <p>TYPOGRAPHY</p>
+                       <p><a href=''>Basic Typography</a></p>
+                       <p><a href=''>Alerts</a></p>
+                       <p><a href=''>Animated Text</a></p>
+                       <p><a href=''>Blockquote</a></p>
+                       <p><a href=''>Dropcap</a></p>
+                       <p><a href=''>Lists</a></p>
+                       <p><a href=''>Tooltip & Popover</a></p>
+                       <p><a href=''>Miscellaneous</a></p>
+                   </div>
+               </div>
+               </div>
+               </div>
+               <!--
+                   -nav-item-4-span
+                   -nav-item-4-span-hidde
+                   -nav-item-4-span-hidde-item1..4
+                   -nav-item-4-span-hidde-item1..4-span
+                   -nav-item-4-span-hidde-item1..4-span-hidde
+                   -nav-item-4-span-hidde-item1-span-hidde-item1..4
+                   -nav-item-4-span-hidde-item2-span-hidde-item1..5
+                   -nav-item-4-span-hidde-item3-span-hidde-item1..3
+                   -nav-item-4-span-hidde-item4-span-hidde-item1..3
+                   -nav-item-4-span-hidde-item1-span-hidde-item1..3-span
+                   -nav-item-4-span-hidde-item1-span-hidde-item1..3-span-hidde
+                   -nav-item-4-span-hidde-item1-span-hidde-item1..3-span-hidde-item1..4
+               --><div class='nav-item-4'>
+                <div class="nav-item-4-list">
+                 <span class='nav-item-4-span'><img class='arrow' src="https://img.icons8.com/material-sharp/24/000000/expand-arrow--v1.png"/> Features </span>
+                 <div class='nav-item-4-span-hidde'>
+                     <div class='nav-item-4-span-hidde-item1'>
+                        <span class='nav-item-4-span-hidde-item1-span'>Header&nbsp;&nbsp;&nbsp;&nbsp; <img class='arrow' src="https://img.icons8.com/material-sharp/24/000000/expand-arrow--v1.png"/></span>
+                          <div class="nav-item-4-span-hidde-item1-list">
+                        <div class='nav-item-4-span-hidde-item1-span-hidde-item1'>
+
+                              <span class='nav-item-4-span-hidde-item1-span-hidde-item1-span'>Center Nav&nbsp;&nbsp;<img class='arrow' src="https://img.icons8.com/material-sharp/24/000000/expand-arrow--v1.png"/></span>
+                              <div class='nav-item-4-span-hidde-item1-span-hidde-item1-span-hidde'>
+                                <div class='nav-item-4-span-hidde-item1-span-hidde-item1-span-hidde-item1'><p><a href=''>Transparent</a></p></div>
+                                <div class='nav-item-4-span-hidde-item1-span-hidde-item1-span-hidde-item2'><p><a href=''>Light</a></p></div>
+                                <div class='nav-item-4-span-hidde-item1-span-hidde-item1-span-hidde-item3'><p><a href=''>Dark</a></p></div>
+                                <div class='nav-item-4-span-hidde-item1-span-hidde-item1-span-hidde-item4'><p><a href=''>Fancy</a></p></div>
+                              </div>
+
+                            </div>
+                            <div class='nav-item-4-span-hidde-item1-span-hidde-item2'>
+
+                                <span class='nav-item-4-span-hidde-item1-span-hidde-item2-span'>Classic&nbsp;&nbsp;<img class='arrow' src="https://img.icons8.com/material-sharp/24/000000/expand-arrow--v1.png"/></span>
+                                <div class='nav-item-4-span-hidde-item1-span-hidde-item2-span-hidde'>
+                                  <div class='nav-item-4-span-hidde-item1-span-hidde-item2-span-hidde-item1'><p><a href=''>Transparent</a></p></div>
+                                  <div class='nav-item-4-span-hidde-item1-span-hidde-item2-span-hidde-item2'><p><a href=''>Light</a></p></div>
+                                  <div class='nav-item-4-span-hidde-item1-span-hidde-item2-span-hidde-item3'><p><a href=''>Dark</a></p></div>
+                                  <div class='nav-item-4-span-hidde-item1-span-hidde-item2-span-hidde-item4'><p><a href=''>Fancy</a></p></div>
+                                </div>
+
+                            </div>
+                            <div class='nav-item-4-span-hidde-item1-span-hidde-item3'>
+
+                                <span class='nav-item-4-span-hidde-item1-span-hidde-item3-span'>Center Logo&nbsp;&nbsp;<img class='arrow' src="https://img.icons8.com/material-sharp/24/000000/expand-arrow--v1.png"/></span>
+                                <div class='nav-item-4-span-hidde-item1-span-hidde-item3-span-hidde'>
+                                  <div class='nav-item-4-span-hidde-item1-span-hidde-item3-span-hidde-item1'><p><a href=''>Transparent</a></p></div>
+                                  <div class='nav-item-4-span-hidde-item1-span-hidde-item3-span-hidde-item2'><p><a href=''>Light</a></p></div>
+                                  <div class='nav-item-4-span-hidde-item1-span-hidde-item3-span-hidde-item3'><p><a href=''>Dark</a></p></div>
+                                  <div class='nav-item-4-span-hidde-item1-span-hidde-item3-span-hidde-item4'><p><a href=''>Fancy</a></p></div>
+                                </div>
+
+                            </div>
+                            <div class='nav-item-4-span-hidde-item1-span-hidde-item4'><p><a href=''>Extended</a></p></div>
+                        </div>
+                     </div>
+                    
+                     <div class='nav-item-4-span-hidde-item2'>
+                        <span class='nav-item-4-span-hidde-item2-span'>Footer&nbsp;&nbsp;&nbsp;&nbsp; <img class='arrow' src="https://img.icons8.com/material-sharp/24/000000/expand-arrow--v1.png"/></span> 
+                        <div class='nav-item-4-span-hidde-item2-span-hidde'>
+                            <div class='nav-item-4-span-hidde-item2-span-hidde-item1'><p><a href=''>Footer I</a></p></div>
+                            <div class='nav-item-4-span-hidde-item2-span-hidde-item2'><p><a href=''>Footer II</a></p></div>
+                            <div class='nav-item-4-span-hidde-item2-span-hidde-item3'><p><a href=''>Footer III</a></p></div>
+                            <div class='nav-item-4-span-hidde-item2-span-hidde-item4'><p><a href=''>Footer IV</a></p></div>
+                            <div class='nav-item-4-span-hidde-item2-span-hidde-item5'><p><a href=''>Footer V</a></p></div>
+                        </div>
+                     </div>
+                     <div class='nav-item-4-span-hidde-item3'>
+                        <span class='nav-item-4-span-hidde-item3-span'>Page Title&nbsp;&nbsp;&nbsp;&nbsp; <img class='arrow' src="https://img.icons8.com/material-sharp/24/000000/expand-arrow--v1.png"/></span>
+                        <div class='nav-item-4-span-hidde-item3-span-hidde'>
+                            <div class='nav-item-4-span-hidde-item3-span-hidde-item1'><p><a href=''>Page Title I</a></p></div>
+                            <div class='nav-item-4-span-hidde-item3-span-hidde-item2'><p><a href=''>Page Title II</a></p></div>
+                            <div class='nav-item-4-span-hidde-item3-span-hidde-item3'><p><a href=''>Page Title III</a></p></div>
+                        </div>
+                     </div>
+                     <div class='nav-item-4-span-hidde-item4'>
+                         <span class='nav-item-4-span-hidde-item4-span'>Modal Popup&nbsp;&nbsp;&nbsp;&nbsp; <img class='arrow' src="https://img.icons8.com/material-sharp/24/000000/expand-arrow--v1.png"/></span>
+                         <div class='nav-item-4-span-hidde-item4-span-hidde'>
+                             <div class='nav-item-4-span-hidde-item4-span-hidde-item1'><p><a href=''>Modal Popup I</a></p></div>
+                             <div class='nav-item-4-span-hidde-item4-span-hidde-item2'><p><a href=''>Modal Popup II</a></p></div>
+                             <div class='nav-item-4-span-hidde-item4-span-hidde-item3'><p><a href=''>Modal Popup III</a></p></div>
+                         </div>
+                     </div>
+                     <div class='nav-item-4-span-hidde-item5'>
+                         <p><a href=''>Notification Bar</a></p>
+                     </div>
+                     <div class='nav-item-4-span-hidde-item6'>
+                        <p><a href=''>Colors</a></p>
+                    </div>
+                     <div class='nav-item-4-span-hidde-item7'>
+                        <p><a href=''>One Page</a></p>
+                     </div>
+                 </div>
+               </div>
+               </div>
+               <!--
+                   nav-item-5-span
+                   nav-item-5-span-hidde
+                   nav-item-5-span-hidde-item1..5
+                   nav-item-5-span-hidde-item1..4-span
+                   nav-item-5-span-hidde-item1..4-span-hidde
+                   nav-item-5-span-hidde-item1..2-span-hidde-item1..2
+                   nav-item-5-span-hidde-item3-span-hidde-item1..4
+                   nav-item-5-span-hidde-item4-span-hidde-item1..3
+                   nav-item-5-span-hidde-item3-span-hidde-item4-span
+                   nav-item-5-span-hidde-item3-span-hidde-item4-span-hidde
+                   nav-item-5-span-hidde-item3-span-hidde-item4-span-hidde-item1..3
+               -->
+                <div class='nav-item-5'>
+                    <div class="nav-item-5-list">
+                       <span class='nav-item-5-span'><img class='arrow' src="https://img.icons8.com/material-sharp/24/000000/expand-arrow--v1.png"/> Pages</span>
+                       <div class="nav-item-5-span-hidde">
+                           <div class="nav-item-5-span-hidde-item1">
+                                <span class='nav-item-5-span-hidde-item1-span'>Services <img class='arrow' src="https://img.icons8.com/material-sharp/24/000000/expand-arrow--v1.png"/></span>
+                                <div class='nav-item-5-span-hidde-item1-span-hidde'>
+                                    <div class='nav-item-5-span-hidde-item1-span-hidde-item1'><p><a href=''>Services I</a></p></div>
+                                    <div class='nav-item-5-span-hidde-item1-span-hidde-item2'><p><a href=''>Services II</a></p></div>
+                                </div>
+                           </div>
+                           <div class="nav-item-5-span-hidde-item2">
+                            <span class='nav-item-5-span-hidde-item2-span'>About <img class='arrow' src="https://img.icons8.com/material-sharp/24/000000/expand-arrow--v1.png"/></span>
+                            <div class='nav-item-5-span-hidde-item2-span-hidde'>
+                                <div class='nav-item-5-span-hidde-item2-span-hidde-item1'><p><a href=''>About I</a></p></div>
+                                <div class='nav-item-5-span-hidde-item2-span-hidde-item2'><p><a href=''>About II</a></p></div>
+                            </div>
+                           </div><div class="nav-item-5-span-hidde-item3">
+                            <span class='nav-item-5-span-hidde-item3-span'>Blog <img class='arrow' src="https://img.icons8.com/material-sharp/24/000000/expand-arrow--v1.png"/></span>
+                            <div class='nav-item-5-span-hidde-item3-span-hidde'>
+                                <div class='nav-item-5-span-hidde-item3-span-hidde-item1'><p><a href=''>Blog without Sidebar</a></p></div>
+                                <div class='nav-item-5-span-hidde-item3-span-hidde-item2'><p><a href=''>Blog with Sidebar</a></p></div>
+                                <div class='nav-item-5-span-hidde-item3-span-hidde-item3'><p><a href=''>Blog with Left Sidebar</a></p></div>
+                                <div class='nav-item-5-span-hidde-item3-span-hidde-item4'>
+                                    
+                                    <span class='nav-item-5-span-hidde-item3-span-hidde-item4-span'>Blog Posts <img class='arrow' src="https://img.icons8.com/material-sharp/24/000000/expand-arrow--v1.png"/></span>
+                                    <div class='nav-item-5-span-hidde-item3-span-hidde-item4-span-hidde'>
+                                        <div class='nav-item-5-span-hidde-item3-span-hidde-item4-span-hidde-item1'><p><a href=''>Post without Sidebar</a></p></div>
+                                        <div class='nav-item-5-span-hidde-item3-span-hidde-item4-span-hidde-item2'><p><a href=''>Post with Sidebar</a></p></div>
+                                        <div class='nav-item-5-span-hidde-item3-span-hidde-item4-span-hidde-item3'><p><a href=''>Post with Left Sidebar</a></p></div>
+                                    </div>
+
+                                </div>
+                            </div>
+                           </div>
+                            <div class="nav-item-5-span-hidde-item4">
+                            <span class='nav-item-5-span-hidde-item4-span'>Contact <img class='arrow' src="https://img.icons8.com/material-sharp/24/000000/expand-arrow--v1.png"/></span>
+                            <div class='nav-item-5-span-hidde-item4-span-hidde'>
+                                <div class='nav-item-5-span-hidde-item4-span-hidde-item1'><p><a href=''>Contact I</a></p></div>
+                                <div class='nav-item-5-span-hidde-item4-span-hidde-item2'><p><a href=''>Contact II</a></p></div>
+                                <div class='nav-item-5-span-hidde-item4-span-hidde-item3'><p><a href=''>Contact III</a></p></div>
+                            </div>
+                           </div>
+                           <div class="nav-item-5-span-hidde-item5"><p><a href=''>Pricing</a></p></div>
+                       </div>
+               </div>
+               </div>
+               <!--
+                   nav-item-6-span
+                   nav-item-6-span-hidde
+                   nav-item-6-span-hidde-item1...12
+               -->
+               <div class='nav-item-6'>
+                <div class="nav-item-6-list">
+                <span class='nav-item-6-span'><img class='arrow' src="https://img.icons8.com/material-sharp/24/000000/expand-arrow--v1.png"/> Blocks</span>
+                <div class='nav-item-6-span-hidde'>
+                    <div class='nav-item-6-span-hidde-item1'><p><a href=''>About</a></p></div>
+                    <div class='nav-item-6-span-hidde-item2'><p><a href=''>Blog</a></p></div>
+                    <div class='nav-item-6-span-hidde-item3'><p><a href=''>Clients</a></p></div>
+                    <div class='nav-item-6-span-hidde-item4'><p><a href=''>Contact</a></p></div>
+                    <div class='nav-item-6-span-hidde-item5'><p><a href=''>Facts</a></p></div>
+                    <div class='nav-item-6-span-hidde-item6'><p><a href=''>FAQ</a></p></div>
+                    <div class='nav-item-6-span-hidde-item7'><p><a href=''>Portfolio</a></p></div>
+                    <div class='nav-item-6-span-hidde-item8'><p><a href=''>Pricing</a></p></div>
+                    <div class='nav-item-6-span-hidde-item9'><p><a href=''>Process</a></p></div>
+                    <div class='nav-item-6-span-hidde-item10'><p><a href=''>Services</a></p></div>
+                    <div class='nav-item-6-span-hidde-item11'><p><a href=''>Team</a></p></div>
+                    <div class='nav-item-6-span-hidde-item12'><p><a href=''>Testimonials</a></p></div>
+                </div>
+               </div>
+               </div>
+               <!--
+                   nav-item-7-span
+                   nav-item-7-span-hidde
+                   nav-item-7-span-hidde-item1..5
+                   nav-item-7-span-hidde-item5-span
+                   nav-item-7-span-hidde-item5-span-hidde
+                   nav-item-7-span-hidde-item5-span-hidde-item1..3
+               -->
+              <div class='nav-item-7'>
+                <div class="nav-item-7-list">
+                <span class='nav-item-7-span'><img class='arrow' src="https://img.icons8.com/material-sharp/24/000000/expand-arrow--v1.png"/> Projects</span>
+                <div class='nav-item-7-span-hidde'>
+                    <div class="nav-item-7-span-hidde-item1"><p><a href=''>Projects I</a></p></div>
+                    <div class="nav-item-7-span-hidde-item2"><p><a href=''>Projects II</a></p></div>
+                    <div class="nav-item-7-span-hidde-item3"><p><a href=''>Projects III</a></p></div>
+                    <div class="nav-item-7-span-hidde-item4"><p><a href=''>Projects IV</a></p></div>
+                    <div class="nav-item-7-span-hidde-item5">
+                       <span class='nav-item-7-span-hidde-item5-span'>Single Projects<img class='arrow' src="https://img.icons8.com/material-sharp/24/000000/expand-arrow--v1.png"/></span>
+                       <div class='nav-item-7-span-hidde-item5-span-hidde'>
+                           <div class='nav-item-7-span-hidde-item5-span-hidde-item1'><p><a href=''>Single Project I</a></p></div>
+                           <div class='nav-item-7-span-hidde-item5-span-hidde-item2'><p><a href=''>Single Project II</a></p></div>
+                           <div class='nav-item-7-span-hidde-item5-span-hidde-item3'><p><a href=''>Single Project III</a></p></div>
+                       </div>
+                    </div>
+                </div>
+               </div>
+               </div>
+               <!--
+                   nav-item-8-span
+                   nav-item-8-span-hidde-images
+                   nav-item-8-images-img1...18( or nav-item-8-images *{})
+              -->
+               <div class='nav-item-8'>
+                <div class="nav-item-8-list">
+                   <span class='nav-item-8-span'><img src="https://img.icons8.com/material-sharp/24/000000/expand-arrow--v1.png" class='arrow'/> Demos</span>
+                    <div class="nav-item-8-span-hidde-images">
+                        <div class="nav-item-8-images-img1"><span><a href=''><img src='./demo1.png'/></a></span></div>
+                        <div class="nav-item-8-images-img2"><span><a href=''><img src='./demo2.png'/></a></span></div>
+                        <div class="nav-item-8-images-img3"><span><a href=''><img src='./demo3.png'/></a></span></div>
+                        <div class="nav-item-8-images-img4"><span><a href=''><img src='./demo4.png'/></a></span></div>
+                        <div class="nav-item-8-images-img5"><span><a href=''><img src='./demo5.png'/></a></span></div>
+                        <div class="nav-item-8-images-img6"><span><a href=''><img src='./demo6.png'/></a></span></div>
+                        <div class="nav-item-8-images-img7"><span><a href=''><img src='./demo7.png'/></a></span></div>
+                        <div class="nav-item-8-images-img8"><span><a href=''><img src='./demo8.png'/></a></span></div>
+                        <div class="nav-item-8-images-img9"><span><a href=''><img src='./demo9.png'/></a></span></div>
+                        <div class="nav-item-8-images-img10"><span><a href=''><img src='./demo10.png'/></a></span></div>
+                        <div class="nav-item-8-images-img11"><span><a href=''><img src='./demo11.png'/></a></span></div>
+                        <div class="nav-item-8-images-img12"><span><a href=''><img src='./demo12.png'/></a></span></div>
+                        <div class="nav-item-8-images-img13"><span><a href=''><img src='./demo13.png'/></a></span></div>
+                        <div class="nav-item-8-images-img14"><span><a href=''><img src='./demo14.png'/></a></span></div>
+                        <div class="nav-item-8-images-img15"><span><a href=''><img src='./demo15.png'/></a></span></div>
+                        <div class="nav-item-8-images-img16"><span><a href=''><img src='./demo16.png'/></a></span></div>
+                        <div class="nav-item-8-images-img17"><span><a href=''><img src='./demo17.png'/></a></span></div>
+                        <div class="nav-item-8-images-img18"><span><a href=''><img src='./demo18.png'/></a></span></div>
+                    </div>
+               </div>
+               </div>
+               <div class='nav-item-9'>
+                   <div class="img-div">
+                   <a href=''><img src='./img1.png'/></a>
+               </div> 
+            </div>
+           </nav>

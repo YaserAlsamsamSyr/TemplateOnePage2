@@ -1,0 +1,864 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset='utf-8'/>
+        <meta name='discriotion' content='css project'/>
+        <title>css project 2</title>
+        <link rel='stylesheet' type='text/css' href='./index.css'>
+        <link rel='stylesheet' type='text/css' href='./index-2.css'>
+    </head>
+    <body>
+        <!--
+            main
+            nav-media-div
+            1-nav
+           ------ class='arrow'===for image -------
+              -nav-item-1..9
+              -nav-item-2...8-list
+              -nav-item-2-list-languages-span (span)
+              -nav-item-2-list-languages-content-hidde
+              -nav-item-3-span-list(span)
+              -nav-item-3-span-list-hidde-content
+              -nav-item-3-span-list-hidde-content-item-1..4(p)
+        -->
+       <div class="main">
+           <div class='nav-media-div'>
+               <div class="nav-media-query">
+                <a href=''><img src='./img1.png'/></a>
+                <div class="show-nav">
+                <img src="https://img.icons8.com/small/32/000000/menu.png"/>
+           
+               </div>
+               </div>
+           <nav>
+               <div class='nav-item-1'>
+                <img src="https://img.icons8.com/small/16/000000/automatic-gearbox-warning.png"/>
+               </div>
+               <div class='nav-item-2'>
+                   <div class="nav-item-2-list">
+                       <span class='nav-item-2-list-languages-span'>
+                        <img class='arrow' src="https://img.icons8.com/material-sharp/24/000000/expand-arrow--v1.png"/>
+                           EN
+                           
+                        </span>
+                       <div class='nav-item-2-list-languages-content-hidde'>
+                           <span>AR</span>
+                           <span>FR</span>
+                       </div>
+                    </div>
+               </div>
+               <div class='nav-item-3'>
+                <div class="nav-item-3-list">
+               <span class='nav-item-3-span-list'>
+                <img class='arrow' src="https://img.icons8.com/material-sharp/24/000000/expand-arrow--v1.png"/>
+                   Elements
+                  
+                </span>
+               <div class='nav-item-3-span-list-hidde-content'>
+                   <div class="nav-item-3-span-list-hidde-content-item-1">
+                       <p>GENERAL ELEMENTS</p>
+                       <p><a href=''>Buttons & Badges</a></p>
+                       <p><a href=''>Counter</a></p>
+                       <p><a href=''>Dividers</a></p>
+                       <p><a href=''>Form Elements</a></p>
+                       <p><a href=''>Icon Box</a></p>
+                       <p><a href=''>Image Hover</a></p>
+                       <p><a href=''>Lightbox</a></p>
+                       <p><a href=''>Modal</a></p>
+                   </div>
+                    <div class="nav-item-3-span-list-hidde-content-item-2">
+                       <p><a href=''>Pricing Table</a></p>
+                       <p><a href=''>Process</a></p>
+                       <p><a href=''>Progressbar</a></p>
+                       <p><a href=''>Shadows</a></p>
+                       <p><a href=''>Tabs</a></p>
+                       <p><a href=''>Team</a></p>
+                       <p><a href=''>Testimonials</a></p>
+                       <p><a href=''>Toggle & Accordion</a></p>
+                   </div>
+                   <div class="nav-item-3-span-list-hidde-content-item-3">
+                    <p>MISC ELEMENTS</p>
+                    <p><a href=''>Carousel</a></p>
+                    <p><a href=''>Icons - Concept</a></p>
+                    <p><a href=''>Icons - Duotone</a></p>
+                    <p><a href=''>Icons - Unicons</a></p>
+                    <p><a href=''>Media Player</a></p>
+                    <p><a href=''>Scroll Animations</a></p>
+                    <p><a href=''>Wrappers</a></p>
+                    <p><a href=''>Wrappers - Angled</a></p>
+                   </div>
+                   <div class="nav-item-3-span-list-hidde-content-item-4">
+                       <p>TYPOGRAPHY</p>
+                       <p><a href=''>Basic Typography</a></p>
+                       <p><a href=''>Alerts</a></p>
+                       <p><a href=''>Animated Text</a></p>
+                       <p><a href=''>Blockquote</a></p>
+                       <p><a href=''>Dropcap</a></p>
+                       <p><a href=''>Lists</a></p>
+                       <p><a href=''>Tooltip & Popover</a></p>
+                       <p><a href=''>Miscellaneous</a></p>
+                   </div>
+               </div>
+               </div>
+               </div>
+               <!--
+                   -nav-item-4-span
+                   -nav-item-4-span-hidde
+                   -nav-item-4-span-hidde-item1..4
+                   -nav-item-4-span-hidde-item1..4-span
+                   -nav-item-4-span-hidde-item1..4-span-hidde
+                   -nav-item-4-span-hidde-item1-span-hidde-item1..4
+                   -nav-item-4-span-hidde-item2-span-hidde-item1..5
+                   -nav-item-4-span-hidde-item3-span-hidde-item1..3
+                   -nav-item-4-span-hidde-item4-span-hidde-item1..3
+                   -nav-item-4-span-hidde-item1-span-hidde-item1..3-span
+                   -nav-item-4-span-hidde-item1-span-hidde-item1..3-span-hidde
+                   -nav-item-4-span-hidde-item1-span-hidde-item1..3-span-hidde-item1..4
+               --><div class='nav-item-4'>
+                <div class="nav-item-4-list">
+                 <span class='nav-item-4-span'><img class='arrow' src="https://img.icons8.com/material-sharp/24/000000/expand-arrow--v1.png"/> Features </span>
+                 <div class='nav-item-4-span-hidde'>
+                     <div class='nav-item-4-span-hidde-item1'>
+                        <span class='nav-item-4-span-hidde-item1-span'>Header&nbsp;&nbsp;&nbsp;&nbsp; <img class='arrow' src="https://img.icons8.com/material-sharp/24/000000/expand-arrow--v1.png"/></span>
+                          <div class="nav-item-4-span-hidde-item1-list">
+                        <div class='nav-item-4-span-hidde-item1-span-hidde-item1'>
+
+                              <span class='nav-item-4-span-hidde-item1-span-hidde-item1-span'>Center Nav&nbsp;&nbsp;<img class='arrow' src="https://img.icons8.com/material-sharp/24/000000/expand-arrow--v1.png"/></span>
+                              <div class='nav-item-4-span-hidde-item1-span-hidde-item1-span-hidde'>
+                                <div class='nav-item-4-span-hidde-item1-span-hidde-item1-span-hidde-item1'><p><a href=''>Transparent</a></p></div>
+                                <div class='nav-item-4-span-hidde-item1-span-hidde-item1-span-hidde-item2'><p><a href=''>Light</a></p></div>
+                                <div class='nav-item-4-span-hidde-item1-span-hidde-item1-span-hidde-item3'><p><a href=''>Dark</a></p></div>
+                                <div class='nav-item-4-span-hidde-item1-span-hidde-item1-span-hidde-item4'><p><a href=''>Fancy</a></p></div>
+                              </div>
+
+                            </div>
+                            <div class='nav-item-4-span-hidde-item1-span-hidde-item2'>
+
+                                <span class='nav-item-4-span-hidde-item1-span-hidde-item2-span'>Classic&nbsp;&nbsp;<img class='arrow' src="https://img.icons8.com/material-sharp/24/000000/expand-arrow--v1.png"/></span>
+                                <div class='nav-item-4-span-hidde-item1-span-hidde-item2-span-hidde'>
+                                  <div class='nav-item-4-span-hidde-item1-span-hidde-item2-span-hidde-item1'><p><a href=''>Transparent</a></p></div>
+                                  <div class='nav-item-4-span-hidde-item1-span-hidde-item2-span-hidde-item2'><p><a href=''>Light</a></p></div>
+                                  <div class='nav-item-4-span-hidde-item1-span-hidde-item2-span-hidde-item3'><p><a href=''>Dark</a></p></div>
+                                  <div class='nav-item-4-span-hidde-item1-span-hidde-item2-span-hidde-item4'><p><a href=''>Fancy</a></p></div>
+                                </div>
+
+                            </div>
+                            <div class='nav-item-4-span-hidde-item1-span-hidde-item3'>
+
+                                <span class='nav-item-4-span-hidde-item1-span-hidde-item3-span'>Center Logo&nbsp;&nbsp;<img class='arrow' src="https://img.icons8.com/material-sharp/24/000000/expand-arrow--v1.png"/></span>
+                                <div class='nav-item-4-span-hidde-item1-span-hidde-item3-span-hidde'>
+                                  <div class='nav-item-4-span-hidde-item1-span-hidde-item3-span-hidde-item1'><p><a href=''>Transparent</a></p></div>
+                                  <div class='nav-item-4-span-hidde-item1-span-hidde-item3-span-hidde-item2'><p><a href=''>Light</a></p></div>
+                                  <div class='nav-item-4-span-hidde-item1-span-hidde-item3-span-hidde-item3'><p><a href=''>Dark</a></p></div>
+                                  <div class='nav-item-4-span-hidde-item1-span-hidde-item3-span-hidde-item4'><p><a href=''>Fancy</a></p></div>
+                                </div>
+
+                            </div>
+                            <div class='nav-item-4-span-hidde-item1-span-hidde-item4'><p><a href=''>Extended</a></p></div>
+                        </div>
+                     </div>
+                    
+                     <div class='nav-item-4-span-hidde-item2'>
+                        <span class='nav-item-4-span-hidde-item2-span'>Footer&nbsp;&nbsp;&nbsp;&nbsp; <img class='arrow' src="https://img.icons8.com/material-sharp/24/000000/expand-arrow--v1.png"/></span> 
+                        <div class='nav-item-4-span-hidde-item2-span-hidde'>
+                            <div class='nav-item-4-span-hidde-item2-span-hidde-item1'><p><a href=''>Footer I</a></p></div>
+                            <div class='nav-item-4-span-hidde-item2-span-hidde-item2'><p><a href=''>Footer II</a></p></div>
+                            <div class='nav-item-4-span-hidde-item2-span-hidde-item3'><p><a href=''>Footer III</a></p></div>
+                            <div class='nav-item-4-span-hidde-item2-span-hidde-item4'><p><a href=''>Footer IV</a></p></div>
+                            <div class='nav-item-4-span-hidde-item2-span-hidde-item5'><p><a href=''>Footer V</a></p></div>
+                        </div>
+                     </div>
+                     <div class='nav-item-4-span-hidde-item3'>
+                        <span class='nav-item-4-span-hidde-item3-span'>Page Title&nbsp;&nbsp;&nbsp;&nbsp; <img class='arrow' src="https://img.icons8.com/material-sharp/24/000000/expand-arrow--v1.png"/></span>
+                        <div class='nav-item-4-span-hidde-item3-span-hidde'>
+                            <div class='nav-item-4-span-hidde-item3-span-hidde-item1'><p><a href=''>Page Title I</a></p></div>
+                            <div class='nav-item-4-span-hidde-item3-span-hidde-item2'><p><a href=''>Page Title II</a></p></div>
+                            <div class='nav-item-4-span-hidde-item3-span-hidde-item3'><p><a href=''>Page Title III</a></p></div>
+                        </div>
+                     </div>
+                     <div class='nav-item-4-span-hidde-item4'>
+                         <span class='nav-item-4-span-hidde-item4-span'>Modal Popup&nbsp;&nbsp;&nbsp;&nbsp; <img class='arrow' src="https://img.icons8.com/material-sharp/24/000000/expand-arrow--v1.png"/></span>
+                         <div class='nav-item-4-span-hidde-item4-span-hidde'>
+                             <div class='nav-item-4-span-hidde-item4-span-hidde-item1'><p><a href=''>Modal Popup I</a></p></div>
+                             <div class='nav-item-4-span-hidde-item4-span-hidde-item2'><p><a href=''>Modal Popup II</a></p></div>
+                             <div class='nav-item-4-span-hidde-item4-span-hidde-item3'><p><a href=''>Modal Popup III</a></p></div>
+                         </div>
+                     </div>
+                     <div class='nav-item-4-span-hidde-item5'>
+                         <p><a href=''>Notification Bar</a></p>
+                     </div>
+                     <div class='nav-item-4-span-hidde-item6'>
+                        <p><a href=''>Colors</a></p>
+                    </div>
+                     <div class='nav-item-4-span-hidde-item7'>
+                        <p><a href=''>One Page</a></p>
+                     </div>
+                 </div>
+               </div>
+               </div>
+               <!--
+                   nav-item-5-span
+                   nav-item-5-span-hidde
+                   nav-item-5-span-hidde-item1..5
+                   nav-item-5-span-hidde-item1..4-span
+                   nav-item-5-span-hidde-item1..4-span-hidde
+                   nav-item-5-span-hidde-item1..2-span-hidde-item1..2
+                   nav-item-5-span-hidde-item3-span-hidde-item1..4
+                   nav-item-5-span-hidde-item4-span-hidde-item1..3
+                   nav-item-5-span-hidde-item3-span-hidde-item4-span
+                   nav-item-5-span-hidde-item3-span-hidde-item4-span-hidde
+                   nav-item-5-span-hidde-item3-span-hidde-item4-span-hidde-item1..3
+               -->
+                <div class='nav-item-5'>
+                    <div class="nav-item-5-list">
+                       <span class='nav-item-5-span'><img class='arrow' src="https://img.icons8.com/material-sharp/24/000000/expand-arrow--v1.png"/> Pages</span>
+                       <div class="nav-item-5-span-hidde">
+                           <div class="nav-item-5-span-hidde-item1">
+                                <span class='nav-item-5-span-hidde-item1-span'>Services <img class='arrow' src="https://img.icons8.com/material-sharp/24/000000/expand-arrow--v1.png"/></span>
+                                <div class='nav-item-5-span-hidde-item1-span-hidde'>
+                                    <div class='nav-item-5-span-hidde-item1-span-hidde-item1'><p><a href=''>Services I</a></p></div>
+                                    <div class='nav-item-5-span-hidde-item1-span-hidde-item2'><p><a href=''>Services II</a></p></div>
+                                </div>
+                           </div>
+                           <div class="nav-item-5-span-hidde-item2">
+                            <span class='nav-item-5-span-hidde-item2-span'>About <img class='arrow' src="https://img.icons8.com/material-sharp/24/000000/expand-arrow--v1.png"/></span>
+                            <div class='nav-item-5-span-hidde-item2-span-hidde'>
+                                <div class='nav-item-5-span-hidde-item2-span-hidde-item1'><p><a href=''>About I</a></p></div>
+                                <div class='nav-item-5-span-hidde-item2-span-hidde-item2'><p><a href=''>About II</a></p></div>
+                            </div>
+                           </div><div class="nav-item-5-span-hidde-item3">
+                            <span class='nav-item-5-span-hidde-item3-span'>Blog <img class='arrow' src="https://img.icons8.com/material-sharp/24/000000/expand-arrow--v1.png"/></span>
+                            <div class='nav-item-5-span-hidde-item3-span-hidde'>
+                                <div class='nav-item-5-span-hidde-item3-span-hidde-item1'><p><a href=''>Blog without Sidebar</a></p></div>
+                                <div class='nav-item-5-span-hidde-item3-span-hidde-item2'><p><a href=''>Blog with Sidebar</a></p></div>
+                                <div class='nav-item-5-span-hidde-item3-span-hidde-item3'><p><a href=''>Blog with Left Sidebar</a></p></div>
+                                <div class='nav-item-5-span-hidde-item3-span-hidde-item4'>
+                                    
+                                    <span class='nav-item-5-span-hidde-item3-span-hidde-item4-span'>Blog Posts <img class='arrow' src="https://img.icons8.com/material-sharp/24/000000/expand-arrow--v1.png"/></span>
+                                    <div class='nav-item-5-span-hidde-item3-span-hidde-item4-span-hidde'>
+                                        <div class='nav-item-5-span-hidde-item3-span-hidde-item4-span-hidde-item1'><p><a href=''>Post without Sidebar</a></p></div>
+                                        <div class='nav-item-5-span-hidde-item3-span-hidde-item4-span-hidde-item2'><p><a href=''>Post with Sidebar</a></p></div>
+                                        <div class='nav-item-5-span-hidde-item3-span-hidde-item4-span-hidde-item3'><p><a href=''>Post with Left Sidebar</a></p></div>
+                                    </div>
+
+                                </div>
+                            </div>
+                           </div>
+                            <div class="nav-item-5-span-hidde-item4">
+                            <span class='nav-item-5-span-hidde-item4-span'>Contact <img class='arrow' src="https://img.icons8.com/material-sharp/24/000000/expand-arrow--v1.png"/></span>
+                            <div class='nav-item-5-span-hidde-item4-span-hidde'>
+                                <div class='nav-item-5-span-hidde-item4-span-hidde-item1'><p><a href=''>Contact I</a></p></div>
+                                <div class='nav-item-5-span-hidde-item4-span-hidde-item2'><p><a href=''>Contact II</a></p></div>
+                                <div class='nav-item-5-span-hidde-item4-span-hidde-item3'><p><a href=''>Contact III</a></p></div>
+                            </div>
+                           </div>
+                           <div class="nav-item-5-span-hidde-item5"><p><a href=''>Pricing</a></p></div>
+                       </div>
+               </div>
+               </div>
+               <!--
+                   nav-item-6-span
+                   nav-item-6-span-hidde
+                   nav-item-6-span-hidde-item1...12
+               -->
+               <div class='nav-item-6'>
+                <div class="nav-item-6-list">
+                <span class='nav-item-6-span'><img class='arrow' src="https://img.icons8.com/material-sharp/24/000000/expand-arrow--v1.png"/> Blocks</span>
+                <div class='nav-item-6-span-hidde'>
+                    <div class='nav-item-6-span-hidde-item1'><p><a href=''>About</a></p></div>
+                    <div class='nav-item-6-span-hidde-item2'><p><a href=''>Blog</a></p></div>
+                    <div class='nav-item-6-span-hidde-item3'><p><a href=''>Clients</a></p></div>
+                    <div class='nav-item-6-span-hidde-item4'><p><a href=''>Contact</a></p></div>
+                    <div class='nav-item-6-span-hidde-item5'><p><a href=''>Facts</a></p></div>
+                    <div class='nav-item-6-span-hidde-item6'><p><a href=''>FAQ</a></p></div>
+                    <div class='nav-item-6-span-hidde-item7'><p><a href=''>Portfolio</a></p></div>
+                    <div class='nav-item-6-span-hidde-item8'><p><a href=''>Pricing</a></p></div>
+                    <div class='nav-item-6-span-hidde-item9'><p><a href=''>Process</a></p></div>
+                    <div class='nav-item-6-span-hidde-item10'><p><a href=''>Services</a></p></div>
+                    <div class='nav-item-6-span-hidde-item11'><p><a href=''>Team</a></p></div>
+                    <div class='nav-item-6-span-hidde-item12'><p><a href=''>Testimonials</a></p></div>
+                </div>
+               </div>
+               </div>
+               <!--
+                   nav-item-7-span
+                   nav-item-7-span-hidde
+                   nav-item-7-span-hidde-item1..5
+                   nav-item-7-span-hidde-item5-span
+                   nav-item-7-span-hidde-item5-span-hidde
+                   nav-item-7-span-hidde-item5-span-hidde-item1..3
+               -->
+              <div class='nav-item-7'>
+                <div class="nav-item-7-list">
+                <span class='nav-item-7-span'><img class='arrow' src="https://img.icons8.com/material-sharp/24/000000/expand-arrow--v1.png"/> Projects</span>
+                <div class='nav-item-7-span-hidde'>
+                    <div class="nav-item-7-span-hidde-item1"><p><a href=''>Projects I</a></p></div>
+                    <div class="nav-item-7-span-hidde-item2"><p><a href=''>Projects II</a></p></div>
+                    <div class="nav-item-7-span-hidde-item3"><p><a href=''>Projects III</a></p></div>
+                    <div class="nav-item-7-span-hidde-item4"><p><a href=''>Projects IV</a></p></div>
+                    <div class="nav-item-7-span-hidde-item5">
+                       <span class='nav-item-7-span-hidde-item5-span'>Single Projects<img class='arrow' src="https://img.icons8.com/material-sharp/24/000000/expand-arrow--v1.png"/></span>
+                       <div class='nav-item-7-span-hidde-item5-span-hidde'>
+                           <div class='nav-item-7-span-hidde-item5-span-hidde-item1'><p><a href=''>Single Project I</a></p></div>
+                           <div class='nav-item-7-span-hidde-item5-span-hidde-item2'><p><a href=''>Single Project II</a></p></div>
+                           <div class='nav-item-7-span-hidde-item5-span-hidde-item3'><p><a href=''>Single Project III</a></p></div>
+                       </div>
+                    </div>
+                </div>
+               </div>
+               </div>
+               <!--
+                   nav-item-8-span
+                   nav-item-8-span-hidde-images
+                   nav-item-8-images-img1...18( or nav-item-8-images *{})
+              -->
+               <div class='nav-item-8'>
+                <div class="nav-item-8-list">
+                   <span class='nav-item-8-span'><img src="https://img.icons8.com/material-sharp/24/000000/expand-arrow--v1.png" class='arrow'/> Demos</span>
+                    <div class="nav-item-8-span-hidde-images">
+                        <div class="nav-item-8-images-img1"><span><a href=''><img src='./demo1.png'/></a></span></div>
+                        <div class="nav-item-8-images-img2"><span><a href=''><img src='./demo2.png'/></a></span></div>
+                        <div class="nav-item-8-images-img3"><span><a href=''><img src='./demo3.png'/></a></span></div>
+                        <div class="nav-item-8-images-img4"><span><a href=''><img src='./demo4.png'/></a></span></div>
+                        <div class="nav-item-8-images-img5"><span><a href=''><img src='./demo5.png'/></a></span></div>
+                        <div class="nav-item-8-images-img6"><span><a href=''><img src='./demo6.png'/></a></span></div>
+                        <div class="nav-item-8-images-img7"><span><a href=''><img src='./demo7.png'/></a></span></div>
+                        <div class="nav-item-8-images-img8"><span><a href=''><img src='./demo8.png'/></a></span></div>
+                        <div class="nav-item-8-images-img9"><span><a href=''><img src='./demo9.png'/></a></span></div>
+                        <div class="nav-item-8-images-img10"><span><a href=''><img src='./demo10.png'/></a></span></div>
+                        <div class="nav-item-8-images-img11"><span><a href=''><img src='./demo11.png'/></a></span></div>
+                        <div class="nav-item-8-images-img12"><span><a href=''><img src='./demo12.png'/></a></span></div>
+                        <div class="nav-item-8-images-img13"><span><a href=''><img src='./demo13.png'/></a></span></div>
+                        <div class="nav-item-8-images-img14"><span><a href=''><img src='./demo14.png'/></a></span></div>
+                        <div class="nav-item-8-images-img15"><span><a href=''><img src='./demo15.png'/></a></span></div>
+                        <div class="nav-item-8-images-img16"><span><a href=''><img src='./demo16.png'/></a></span></div>
+                        <div class="nav-item-8-images-img17"><span><a href=''><img src='./demo17.png'/></a></span></div>
+                        <div class="nav-item-8-images-img18"><span><a href=''><img src='./demo18.png'/></a></span></div>
+                    </div>
+               </div>
+               </div>
+               <div class='nav-item-9'>
+                   <div class="img-div">
+                   <a href=''><img src='./img1.png'/></a>
+               </div> 
+            </div>
+           </nav>
+        </div>
+              <!--
+              head
+              head-imge
+              head-paragraph
+              -->
+            <div class='head'>
+                <div class="head-imge">
+                      <img src='./img2.png'/>
+                </div>
+                <div class="head-paragraph">
+                     <h1>Grow Your</h1><h1> Business with Our</h1><h1>Solutions.</h1>
+                     <p>We help our clients to increase their</p>
+                     <p>website traffic, rankings and visibility in</p>
+                     <p>search results.</p>
+                     <a href='#'><button>Try It For Free</button></a>
+                </div>
+           </div>
+           
+           <!--
+               list-item-with-header
+               section-1-header
+               section-1-list-items
+               section-1-list-item1..4
+           -->
+           <section class="list-item-with-header">
+               <div class='section-1-header'>
+               <p>WHAT WE DO?</p>
+                <h1>The service we offer is specifically</h1>
+                <h1>designed to meet your needs.</h1>
+               </div>
+               <div class="section-1-list-items">
+                 <div class='section-1-list-item1'>
+                    <img src="https://img.icons8.com/office/80/000000/search--v1.png"/>
+                        <h2>SEO Services</h2>
+                       <p>Nulla vitae elit libero</p>
+                       <p>a pharetra augue.</p>
+                       <p>Donec id elit non mi</p>
+                       <p> porta gravida at eget</p>
+                       <p>metus cras justo</p>
+                    <h4>
+                        <a href=''>Learn More</a>
+                        <div class='section-1-list-item1-border'> </div>
+                    </h4>
+                 </div>
+                 <div class='section-1-list-item2'>
+                    <img src="https://img.icons8.com/office/80/000000/web-design.png"/>
+                    <h2>Web Design</h2>
+                   <p>Nulla vitae elit libero</p>
+                   <p>a pharetra augue.</p>
+                   <p>Donec id elit non mi</p>
+                   <p> porta gravida at eget</p>
+                   <p>metus cras justo</p>
+                   <h4>
+                       <a href=''>Learn More</a>
+                       <div class='section-1-list-item2-border'> </div></h4>
+                 </div>
+                 <div class='section-1-list-item3'>
+                    <img src="https://img.icons8.com/ios/80/000000/communication.png"/>
+                    <h2>Social Engagement</h2>
+                   <p>Nulla vitae elit libero</p>
+                   <p>a pharetra augue.</p>
+                   <p>Donec id elit non mi</p>
+                   <p> porta gravida at eget</p>
+                   <p>metus cras justo</p>
+                   <h4>
+                       <a href=''>Learn More</a>
+                       <div class='section-1-list-item3-border'> </div>
+                    </h4>
+                 </div>
+                 <div class='section-1-list-item4'>
+                    <img src="https://img.icons8.com/office/80/000000/commercial.png"/>
+                    <h2>Content Marketing</h2>
+                   <p>Nulla vitae elit libero</p>
+                   <p>a pharetra augue.</p>
+                   <p>Donec id elit non mi</p>
+                   <p> porta gravida at eget</p>
+                   <p>metus cras justo</p>
+                   <h4>
+                       <a href=''>Learn More</a>
+                       <div class='section-1-list-item4-border'> </div>
+                    </h4>
+                 </div>
+               </div>
+           </section>
+           <!--             section-2             -->
+           <!--
+            section-2
+            section-2-div-paragraph
+            section-2-form
+            section-2-url
+            section-2-submit
+            section-2-img
+            section-2-url-div
+           -->
+           <section class="section-2">
+           <div class='section-2-div-paragraph'>
+               <p>ANALYZE NOW</p>
+               <b>Wonder how much faster</b><br/>
+               <b>your website can go? Easily</b><br/>
+               <b>check your SEO Score now.</b>
+               <h4>Cum sociis natoque penatibus et magnis dis parturient</h4>
+               <h4>montes, nascetur ridiculus mus. Cras justo odio, dapibus ac</h4>
+               <h4>facilisis in, egestas eget quam. Praesent commodo cursus</h4>
+               <h4>magna, vel scelerisque nisl consectetur et.</h4>
+               <form action='' method=''>
+                 <div class='section-2-form'>
+                    <div class='section-2-url-div'><input type='url' name='url_input' placeholder="Enter Website URL" class='section-2-url' maxlength="30" required /></div>
+                    <input type='submit' value='search' class='section-2-submit' name='search_input' />
+                 </div>
+                </form>
+           </div>
+           <div class="section-2-img">
+               <img src='img3.png' />
+           </div>
+        </section>
+        <!--             section-3             -->
+        <!--
+         section-3
+         section-3-paragraph-1
+         section-3-paragraph-1-button
+         section-3-paragraph-2
+         section-3-paragraph-2-item-1..3
+         section-3-paragraph-2-paragraph
+         section-3-paragraph-2-num
+        -->
+        <section class="section-3">
+        <div class='section-3-paragraph-1'>
+            <p>
+                OUR STRATEGY
+            </p>
+            <h1>
+                Here are 3 working steps to
+            </br>
+            organize our business projects.
+            </h1>
+            <h4>
+                Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis
+            </br>
+            vestibulum. Etiam porta sem malesuada magna mollis euismod. Nullam id
+            </br>
+            dolor id nibh ultricies vehicula ut id elit. Nullam quis risus eget urna mollis.
+            </h4>
+            <h4>
+                Nullam id dolor id nibh ultricies vehicula ut id elit. Vestibulum id ligula porta
+            </br>
+            felis euismod semper. Aenean lacinia bibendum nulla sed consectetur.
+            </h4>
+            <a href=''>
+                <button class='section-3-paragraph-1-button'>Learn More</button>
+            </a>
+        </div>
+        <div class="section-3-paragraph-2">
+            <div class='section-3-paragraph-2-item-1'>
+                <div class='section-3-paragraph-2-num'>
+                    <div class='num-section-3'>
+                        01
+                    </div>
+                </div>
+                <div class='section-3-paragraph-2-paragraph'>
+            <h3>
+                Collect Ideas
+            </h3>
+            <p>
+                Nulla vitae elit libero pharetra augue dapibus.
+            </p>
+            </div>
+            </div>
+            <div class='section-3-paragraph-2-item-2'>
+            <div class='section-3-paragraph-2-num'>
+                <div class='num-section-3'>
+                    02
+                </div>
+                </div>
+                <div class='section-3-paragraph-2-paragraph'>
+                    <h3>
+                        Data Analysis
+                    </h3>
+                    <p>
+                        Vivamus sagittis lacus vel augue laoreet.
+                    </p>
+                </div>
+            </div>
+            <div class='section-3-paragraph-2-item-3'>
+                <div class='section-3-paragraph-2-num'>
+                    <div class='num-section-3'>
+                        03
+                    </div>
+                </div>
+                <div class='section-3-paragraph-2-paragraph'>
+                    <h3>
+                        Finalize Product
+                    </h3>
+                    <p>
+                        Cras mattis consectetur purus sit amet.
+                    </p>
+                </div>
+            </div>
+        </div>
+     </section>
+     <!--                     section 4                       -->
+     <!--
+section-4
+section-4-img-div
+section-3-paragraph-1
+section-4-paragraph-1
+section-4-span-1..3 + h4
+section-4-paragraph-1-span
+     -->
+     <section class="section-4">
+        <div class="section-4-img-div">
+            <img src='./img4.png' />
+      </div>
+        <div class='section-3-paragraph-1 section-4-paragraph-1'>
+            <p>
+                WHY CHOOSE US?
+            </p>
+            <h1>
+                We bring solutions to make
+            </br>
+            life easier for our clients.
+            </h1>
+            <div class="section-4-paragraph-1-span">
+                <span class='section-4-span-1'><img src="https://img.icons8.com/small/16/000000/arrow.png"/> Professional Design</span>
+                <h4>
+                    Fusce dapibus, tellus ac cursus commodo, tortor mauris
+                </br>
+                condimentum nibh, ut fermentum massa justo sit amet
+                </br>
+                risus. Cras mattis consectetur purus sit amet fermentum.
+                </br>
+                Praesent commodo cursus magna, vel.
+                </h4>
+                </BR>
+                <span class='section-4-span-2'><img src="https://img.icons8.com/small/16/000000/arrow.png"/> Top-Notch Support</span>
+                <h4>
+                    Fusce dapibus, tellus ac cursus commodo, tortor mauris
+                </br>
+                condimentum nibh, ut fermentum massa justo sit amet
+                </br>
+                risus. Cras mattis consectetur purus sit amet fermentum.
+                </br>
+                Praesent commodo cursus magna, vel.
+                </h4>
+                </BR>
+                <span class='section-4-span-3'><img src="https://img.icons8.com/small/16/000000/arrow.png"/> Header and Slider Options</span>
+                <h4>
+                    Fusce dapibus, tellus ac cursus commodo, tortor mauris
+                </br>
+                condimentum nibh, ut fermentum massa justo sit amet
+                </br>
+                risus. Cras mattis consectetur purus sit amet fermentum.
+                </br>
+                Praesent commodo cursus magna, vel.
+                </h4>
+            </div>
+        </div>
+     </section>
+     <!--              section-5           -->
+     <!--
+         section-5
+         section-5-item-1..2
+         section-5-item-2-item1..4
+         section-5-item-2-item-icon
+     -->
+     <section class='section-5'>
+            <div class='section-5-item-1'>
+                <p>OUR TEAM</p>
+                <h1>Think unique and be innovative.</h1>
+                <h1>Make a difference with Sandbox.</h1>
+            </div>
+            <div class='section-5-item-2'>
+                <div class='section-5-item-2-item1'>
+                    <img class='img-section-5' src='./person_1.jpg'/>
+                    <h2>Cory Zamora</h2>
+                    <p>MARKETING SPECIALIST</p>
+                    <h4>Fermentum massa justo sit</br>amet risus morbi leo.</h4>
+                    <div class='section-5-item-2-item-icon'>
+                        <a href=''> <img src="https://img.icons8.com/office/16/000000/twitter.png"/></a>
+                        <a href=''><img src="https://img.icons8.com/office/16/000000/facebook-circled.png"/></a>
+                        <a href=''><img src="https://img.icons8.com/office/16/000000/dribbble.png"/></a>
+                    </div>
+                </div>
+                <div class='section-5-item-2-item2'>
+                    <img class='img-section-5' src='./person_2.jpg'/>
+                    <h2>Coriss Ambady</h2>
+                    <p>FINANCIAL ANALYST</p>
+                    <h4>Fermentum massa justo sit</br>amet risus morbi leo.</h4>
+                    <div class='section-5-item-2-item-icon'>
+                        <a href=''> <img src="https://img.icons8.com/office/16/000000/twitter.png"/></a>
+                        <a href=''><img src="https://img.icons8.com/office/16/000000/facebook-circled.png"/></a>
+                        <a href=''><img src="https://img.icons8.com/office/16/000000/dribbble.png"/></a>
+                    </div>
+                </div>
+                <div class='section-5-item-2-item3'>
+                    <img class='img-section-5' src='./person_3.jpg'/>
+                    <h2>Jackie Sanders</h2>
+                    <p>INVESTMENT PLANNER</p>
+                    <h4>Fermentum massa justo sit</br>amet risus morbi leo.</h4>
+                    <div class='section-5-item-2-item-icon'>
+                        <a href=''> <img src="https://img.icons8.com/office/16/000000/twitter.png"/></a>
+                        <a href=''><img src="https://img.icons8.com/office/16/000000/facebook-circled.png"/></a>
+                        <a href=''><img src="https://img.icons8.com/office/16/000000/dribbble.png"/></a>
+                    </div>
+                </div>
+                <div class='section-5-item-2-item4'>
+                    <img class='img-section-5' src='./person_4.jpg'/>
+                    <h2>Nikolas Brooten</h2>
+                    <p>SALES MANAGER</p>
+                    <h4>Fermentum massa justo sit</br>amet risus morbi leo.</h4>
+                    <div class='section-5-item-2-item-icon'>
+                        <a href=''> <img src="https://img.icons8.com/office/16/000000/twitter.png"/></a>
+                        <a href=''><img src="https://img.icons8.com/office/16/000000/facebook-circled.png"/></a>
+                        <a href=''><img src="https://img.icons8.com/office/16/000000/dribbble.png"/></a>
+                    </div>
+                </div>
+            </div>
+            <!--        section-6       -->
+            <!--
+                section-6
+                section-6-paragraph
+                section-6-paragraph-items
+                section-6-paragraph-item1..4
+                section-6-img
+            -->
+     </section>
+     <section class='section-6'>
+            <div class="section-6-paragraph">
+                <p>OUR SOLUTIONS</p>
+                <h1>
+                    We make your spending</br>
+                     stress-free for you to have</br>
+                      the perfect control.
+                </h1>
+                <h4>
+                    Cum sociis natoque penatibus et magnis dis parturient</br>
+                    montes, nascetur ridiculus mus. Cras justo odio, dapibus ac</br>
+                    facilisis in, egestas eget quam. Praesent commodo cursus.
+                </h4>
+                <div class='section-6-paragraph-items'>
+                    <div class='section-6-paragraph-item1'><img src="https://img.icons8.com/officexs/16/000000/checked.png"/><h4>Aenean quam ornare.</br>Curabitur blandit.</h4></div>
+                    <div class='section-6-paragraph-item2'><img src="https://img.icons8.com/officexs/16/000000/checked.png"/><h4>Etiam porta euismod</br>malesuada mollis.</h4></div>
+                    <div class='section-6-paragraph-item3'><img src="https://img.icons8.com/officexs/16/000000/checked.png"/><h4>Nullam quis risus eget</br>urna mollis ornare.</h4></div>
+                    <div class='section-6-paragraph-item4'><img src="https://img.icons8.com/officexs/16/000000/checked.png"/><h4>Vivamus sagittis lacus</br>vel augue rutrum.</h4></div>
+                </div>
+            </div>
+            <div class="section-6-img">
+                <img src='./img5.png' />
+            </div>
+     </section>
+     <!--     section-7      -->
+     <!--
+         section-7
+         section-7-items
+         section-7-items-item1..4
+         section-7-paragraph
+     -->
+     <section class='section-7'>
+         <div class='section-7-items'>
+             <div class='section-7-items-item1'>
+                 <p>
+                     “Cum sociis natoque</br>
+                     penatibus et magnis dis </br>
+                     parturient montes.” 
+                 </p>
+                 <h2>Coriss Ambady</h2>
+                 <p> Financial Analyst</p>
+             </div>
+             <div class='section-7-items-item2'>
+                 <p>
+                    “Vivamus sagittis lacus vel</br>
+                    augue laoreet rutrum faucibus  </br>
+                    dolor auctor. Vestibulum id</br>
+                    ligula porta felis euismod.” </p>
+                <h2>Cory Zamora</h2>
+                <p>Marketing Specialist</p>
+             </div>
+             <div class='section-7-items-item3'>
+                 <p>
+                    “Donec id elit non porta </br>
+                    gravida at eget metus.</br>
+                    Duis mollis est luctus </br>
+                    commodo nisi erat.”</p>
+                <h2>Barclay Widerski</h2>
+                <p>Sales Specialist</p>
+             </div>
+             <div class='section-7-items-item4'> 
+                <p>
+                    “Nisi erat porttitor ligula, eget</br>
+                    lacinia odio sem nec elit.  </br>
+                    Aenean eu leo pellentesque.” </p>
+                <h2> Jackie Sanders</h2>
+                <p> Investment Planner</p>
+             </div>
+         </div>
+         <div class='section-7-paragraph'>
+            <h4>OUR COMMUNITY</h4>
+            <h1>
+                Don't take our word for it.</br>
+                See what customers are</br>
+                 saying about us.
+            </h1>
+            <p>
+                Aenean lacinia bibendum nulla sed consectetur. Praesent</br>
+                commodo cursus magna, vel scelerisque nisl consectetur et.</br>
+                Nulla vitae elit libero, a pharetra augue. Maecenas faucibus</br>
+                mollis interdum. Vestibulum id ligula porta felis euismod.
+            </p>
+            <a href=''>
+                <button>All Testimonials</button>
+            </a>
+         </div>
+     </section>
+        <!--     section-8      -->
+     <!--
+         section-8
+         section-8-img
+         section-8-paragraph
+     -->
+     <section class='section-8'>
+        <div class='section-8-img'>
+           <img src='./img6.png' />
+        </div>
+        <div class='section-8-paragraph'>
+           <h4>LET’S TALK</h4>
+           <h1>
+            Let's make something great</br>
+            together. We are trusted by</br>
+            over 5000+ clients.
+           </h1>
+           <p>
+            Aenean eu leo quam. Pellentesque ornare sem lacinia quam</br>
+            venenatis vestibulum. Maecenas faucibus mollis interdum.</br>
+            Fusce dapibus, tellus ac cursus commodo, tortor mauris</br>
+            condimentum nibh, ut fermentum massa justo sit amet risus.
+           </p>
+           <a href=''>
+               <button>Join Us</button>
+           </a>
+        </div>
+    </section>
+    <!--             section-9          -->
+    <!--
+
+    -->
+    <section class='section-9'>
+        <div class='section-9-imges'>
+            <img src='./img8.png' />
+            <img src='./img9.png' />
+            <img src='./img10.png' />
+            <img src='./img11.png' />
+            <img src='./img12.png' />
+            <img src='./img13.png' />
+        </div>
+    </section>
+    <!--            footer            -->
+    <!--
+        footer-icon
+         item1
+          end-footer
+           head-footer
+    -->
+    <footer>
+        <div class='footer'>
+        <div class="head-footer">
+            <h1>
+                Join our community by using our</br>
+                services and grow your business.
+            </h1>
+            <a href=''><button>Try It For Free</button></a>
+        </div>
+        <div class="hr"></div>
+        <div class="end-footer">
+            <div class="item1">
+              <img src='./img7.png' />
+              <p>&COPY; 2021 Sandbox.</br>All rights reserved.</p>
+              <div class="footer-icon">
+               <a href=''><img src="https://img.icons8.com/small/16/000000/facebook-new.png"/></a>
+               <a href=''><img src="https://img.icons8.com/small/16/000000/instagram-new.png"/></a>
+               <a href=''><img src="https://img.icons8.com/small/16/000000/youtube--v1.png"/></a>
+               <a href=''><img src="https://img.icons8.com/small/16/000000/whatsapp.png"/></a>
+               <a href=''><img src="https://img.icons8.com/ios/16/000000/twitter--v1.png"/></a>
+              </div>
+            </div>
+            <div class="item2">
+          <h2>Get in Touch</h2>
+          <p>Moonshine St.</br>14/05 Light City,</br>London, United</br>Kingdom</p>
+          <h3><a href=''>info@email.com</a></h3>
+          <p>+00 (123) 456 78 90</p>
+            </div>
+            <div class="item3">
+                <h2>Learn More</h2>
+                <p>
+                    <a href=''>About Us</a></br>
+                    <a href=''>Our Story</a></br>
+                    <a href=''>Projects</a></br>
+                    <a href=''>Terms of Use</a></br>
+                    <a href=''>Privacy Policy.</a></br>
+                </p>
+            </div>
+            <div class="item4">
+                <h2>Our Newsletter</h2>
+                <p>
+                    Subscribe to our newsletter to get</br>
+                    our news & deals delivered to you.
+                </p>
+                <form action='' method=''>
+                    <div class='section-2-form'>
+                       <div class='section-2-url-div'><input type='email' name='email_input' placeholder="Email address" class='section-2-url' maxlength="30" required /></div>
+                       <input type='submit' value='Join' class='section-2-submit' name='join_input' />
+                    </div>
+                   </form>
+            </div>
+        </div>
+        </div>
+    </footer>
+       </div>
+    </body>
+</html>  
